@@ -10,8 +10,6 @@ We will first need to navigate to our .ssh folder to generate our key-pair. We w
 
 It will then prompt you for the name of a key file, and a passphrase for the key (which you can optionally leave blank).
 
-![Alt text](KeyGen.PNG)
-
 This should then create two new files, one key and one .pub file (which are private and public respectively)
 
 ![Alt text](ShowKeys.PNG)
